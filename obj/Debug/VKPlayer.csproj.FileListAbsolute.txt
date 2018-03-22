@@ -1,0 +1,11 @@
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\obj\Debug\VKPlayer.Login.resources
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\obj\Debug\VKPlayer.Player.resources
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\obj\Debug\VKPlayer.Properties.Resources.resources
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\obj\Debug\VKPlayer.csproj.GenerateResource.Cache
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\bin\Debug\VKPlayer.exe.config
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\bin\Debug\VKPlayer.exe
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\bin\Debug\VKPlayer.pdb
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\obj\Debug\VKPlayer.exe
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\obj\Debug\VKPlayer.pdb
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\obj\Debug\VKPlayer.csprojResolveAssemblyReference.cache
+C:\Users\a.simonenko\OneDrive\Project\C#\VKPlayer\VKPlayer\obj\Debug\VKPlayer.csproj.CoreCompileInputs.cache
